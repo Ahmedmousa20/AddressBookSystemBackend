@@ -1,0 +1,15 @@
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\obj\Debug\net5.0\AddressBook.BLL.csproj.AssemblyReference.cache
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\obj\Debug\net5.0\AddressBook.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\obj\Debug\net5.0\AddressBook.BLL.AssemblyInfoInputs.cache
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\obj\Debug\net5.0\AddressBook.BLL.AssemblyInfo.cs
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\obj\Debug\net5.0\AddressBook.BLL.csproj.CoreCompileInputs.cache
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\bin\Debug\net5.0\AddressBook.BLL.deps.json
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\bin\Debug\net5.0\AddressBook.BLL.dll
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\bin\Debug\net5.0\ref\AddressBook.BLL.dll
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\bin\Debug\net5.0\AddressBook.BLL.pdb
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\bin\Debug\net5.0\AddressBook.DAL.dll
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\bin\Debug\net5.0\AddressBook.DAL.pdb
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\obj\Debug\net5.0\AddressBook.BLL.csproj.CopyComplete
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\obj\Debug\net5.0\AddressBook.BLL.dll
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\obj\Debug\net5.0\ref\AddressBook.BLL.dll
+E:\FCAIH\course\interview tasks\3 billers digitalization task\AddressBook.BLL\obj\Debug\net5.0\AddressBook.BLL.pdb
